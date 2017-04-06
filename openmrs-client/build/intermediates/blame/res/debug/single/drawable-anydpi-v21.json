@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_password_hidden.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_password_hidden.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_sync_off.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sync_off.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_sync_on.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sync_on.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_edit.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_copy.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_copy.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add_disabled.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_disabled.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_password_visible.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_password_visible.xml"
+    }
+]

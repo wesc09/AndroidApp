@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/activeandroid-3.1.0-SNAPSHOT_a4facaec6ff6accc39136534d08d0e90b7af109b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.3/7fe1a94c1aeb958acc876fe616922cc191f3222c/rxjava-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.3_5558066c392430ba18138820c33c9fa87f0dc25d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_20ac110c3529217e741b82b5b050d83938bbd535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.0/752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d/joda-time-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.0_f25652f734b618b5dc8e9feb8df0bd7b9bd5b59b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_af9023f1b444944a28133561fcdbb7e7c9c7652d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2181c00a0d0a595b6c0679f1411cc91af6b042bb">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-1.0.0_0b5d0bdd5a3ea71da9378349c6e2dcbe5a8535bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a4e1947ba16b3a181b4239c0cd78cbebec1df099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c5d6b63481f217b264cc7431008c7f57d075b22a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/org.jdeferred/jdeferred-core/1.2.4/8099d270647d1bc2eca30df57738cf8c05f8c524/jdeferred-core-1.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8099d270647d1bc2eca30df57738cf8c05f8c524">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/jdeferred-core-1.2.4_a0b3fddfe0629a1e021e3d60cc8bd9d50a620ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_d7affae2f65be1645b289f028c779919a3e9e954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.2/81d61b7f33ebeab314e07de0cc596f8e858d97/slf4j-api-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0081d61b7f33ebeab314e07de0cc596f8e858d97">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.2_9601ca05ea289ed8d1ee9e4f8c6e27123925d50d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_582f404544b6836df9e91126b585c444ed41e822/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_b0696384f2ecf5595bd45ce68adb2375b2d5b0c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_82c4310eca1060a078a30a4822cf9ffe51ec0a60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_5e2f9309d2bcc5e4cd41638b6a5c9350b1e544ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/httpmime-4.5.2_dedbff25a088084226b848fc0476f366ca73e4ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/kxml2-2.3.0_7bbb7a9f85c3645a04bf238565f550284e5daff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7af16d42e1220878c02489546ff33788ec42ce7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.10_ce4872e80eba2cc282b3568a40f7b2cad47fe255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_fc7d60633eaf565b859b57c97af76069dc2beb02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/b31526a230871fbe285fbcbe2813f9c0839ae9b0/httpcore-4.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.4_69e6e1b8f4ade3c5fe92f59b1e00022fff622eb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_5f52389ade109f3aef40e274e33f494228be8975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14b7671602012d7822c2c9328dbeecb91ff2588b">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.hotchemi-permissionsdispatcher-2.3.1_940b20705ba49d15f1d92ee4eab764e8e5064f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/net.yanzm/mth/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d621cb785df9d9321bc5832bb3e6e723d2f6e1b6">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/net.yanzm-mth-1.0.4_e95341a94ee94dbec7b02db541b6fc82d89471e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.2.0_63d33b524dcc0dd6b12ba778f2c081e43d5d428b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e055dbed4f8f8ad4b55f0c6ef456c556a5cfef76">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7adbeadbac7467b07a6ccc5013b0e30c02d6aafb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9ec2eac9e9db7601030a321f611137dfc1c00cb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cb047e615d2f1ce9817329f9129a32f56ab4be6c">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_129f0dbe1b28779f6e0395f4ed22799ec972390a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.4.0_f7df268a04c3475323b5278779a91acffaec40ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/org.jdeferred/jdeferred-android-aar/1.2.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d1b1184f71b541cafdfc46acc93986fc1bf9b440">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/org.jdeferred-jdeferred-android-aar-1.2.4_3820621fe88fa669d6d4a842bb151db07b2c9713/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_6d6ae2f0d40752074ac22fa48efeaabdcd776aae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_906100dfebcce95de594a29ead0ba7ff0823df7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_983991bad0a30fe5db531c945792d89fd0f263b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7c4c1fcc34aca536e3389c31527fb3c941b80266">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-23.4.0_06e4c2f2542d406eacd270075d7e675419c8d8f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/net.zetetic/android-database-sqlcipher/3.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82e052d6fb37e582997668005a8a1264dffe57ea">
+        <dex dex="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/net.zetetic-android-database-sqlcipher-3.5.1_074d71099a955bdc1b611f4bd178ab0d103397d4/classes.dex" />
+    </item>
+
+</items>

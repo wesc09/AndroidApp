@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/mth_tab_widget_text.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/net.yanzm/mth/1.0.4/res/color/mth_tab_widget_text.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/cardhighlight.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/color/cardhighlight.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

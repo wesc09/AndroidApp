@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/spinner_ab_disabled_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/spinner_ab_disabled_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ab_bottom_solid_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ab_bottom_solid_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/toast_warning.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/toast_warning.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/spinner_ab_default_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/spinner_ab_default_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_photo_camera_white_48dp.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/spinner_ab_pressed_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/spinner_ab_pressed_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/spinner_ab_focused_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/spinner_ab_focused_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ico_vitals_small.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ico_vitals_small.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/discharge.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/discharge.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/tab_unselected_pressed_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/tab_unselected_pressed_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_unchecked.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/checkbox_unchecked.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/btn_cab_done_focused_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/btn_cab_done_focused_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_select_all.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_select_all.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/exp_list_hide_details.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/exp_list_hide_details.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_password_hidden.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_password_hidden.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_refresh.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ab_stacked_solid_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ab_stacked_solid_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/list_focused_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/list_focused_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/progress_primary_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/progress_primary_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/toast_success.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/toast_success.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_mult_down.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_mult_down.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ab_transparent_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ab_transparent_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_person_grey_500_48dp.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_person_grey_500_48dp.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/admission.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/admission.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ico_search.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ico_search.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/tab_unselected_focused_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/tab_unselected_focused_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ico_visits.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ico_visits.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_sync_off.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_sync_off.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/tab_selected_pressed_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/tab_selected_pressed_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ico_vitals.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ico_vitals.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ab_solid_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ab_solid_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_download.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/progress_bg_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/progress_bg_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/tab_selected_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/tab_selected_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_update_white_48dp.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_update_white_48dp.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_openmrs.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_openmrs.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/exp_list_show_details.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/exp_list_show_details.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/toast_notice.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/toast_notice.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/start_visit.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/start_visit.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/cab_background_bottom_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/cab_background_bottom_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/delete_patient.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/delete_patient.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_add_disabled.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_add_disabled.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_close.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_copy.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_copy.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ico_registry.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ico_registry.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_search.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/tab_selected_focused_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/tab_selected_focused_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/toast_error.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/toast_error.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/openmrs_logo.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/openmrs_logo.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/btn_cab_done_pressed_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/btn_cab_done_pressed_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ico_edit.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ico_edit.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/progress_secondary_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/progress_secondary_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/past_visit_dot.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/past_visit_dot.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_password_visible.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_password_visible.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/btn_cab_done_default_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/btn_cab_done_default_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/list_pressed_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/list_pressed_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_edit.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/cab_background_top_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/cab_background_top_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_offline.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/ic_offline.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/active_visit_dot.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/active_visit_dot.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_add.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/visit_note.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/visit_note.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/menu_dropdown_panel_openmrs.9.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/menu_dropdown_panel_openmrs.9.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/ic_sync_on.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/generated/res/pngs/debug/drawable-hdpi/ic_sync_on.png"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_checked.png",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/drawable-hdpi/checkbox_checked.png"
+    }
+]

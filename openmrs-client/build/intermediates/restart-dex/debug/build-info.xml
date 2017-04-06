@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="61556852080339"
+    token="2781445994564897988"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="61399668781655"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/outputs/apk/openmrs-client-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="61556852080339"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

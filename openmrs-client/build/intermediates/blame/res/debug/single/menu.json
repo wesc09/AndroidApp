@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/patient_photo_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/patient_photo_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/find_visits_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/find_visits_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/patients_visit_tab_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/patients_visit_tab_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/patient_dashboard_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/patient_dashboard_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/form_entry_patient_list_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/form_entry_patient_list_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/active_visit_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/active_visit_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/patient_details_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/patient_details_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/basic_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/basic_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/find_locally_and_add_patients_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/find_locally_and_add_patients_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/find_patients_remote_menu.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/find_patients_remote_menu.xml"
+    },
+    {
+        "merged": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/res/merged/debug/menu/download_multiple.xml",
+        "source": "/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/res/menu/download_multiple.xml"
+    }
+]

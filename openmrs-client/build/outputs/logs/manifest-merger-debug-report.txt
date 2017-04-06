@@ -1,0 +1,343 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:14:1-230:12
+	package
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:15:5-33
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:17:5-32
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:16:5-28
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:14:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:23:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:24:22-73
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:25:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:28:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:31:9-57
+application
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:34:5-228:19
+MERGED from [com.android.support:gridlayout-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [net.yanzm:mth:1.0.4] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/net.yanzm/mth/1.0.4/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v13:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:38:9-41
+	android:supportsRtl
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:40:9-35
+	android:allowBackup
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:37:9-44
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:39:9-45
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:35:9-44
+meta-data#AA_DB_NAME
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:41:9-43:48
+	android:value
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:42:13-38
+meta-data#AA_DB_VERSION
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:44:9-46:52
+	android:value
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:45:13-41
+meta-data#buildVersion
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:47:9-49:33
+	android:value
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:49:13-30
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:48:13-40
+receiver#org.openmrs.mobile.api.SyncStateReceiver
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:51:9-55:20
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:51:19-56
+intent-filter#org.openmrs.mobile.intent.action.SYNC_PATIENTS
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:52:13-54:29
+action#org.openmrs.mobile.intent.action.SYNC_PATIENTS
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:53:17-89
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:53:25-86
+service#org.openmrs.mobile.services.ConceptDownloadService
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:57:9-68
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:57:18-65
+activity#org.openmrs.mobile.activities.dashboard.DashboardActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:59:9-68:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:61:13-45
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:60:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:63:13-67:29
+action#android.intent.action.MAIN
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:64:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:66:27-74
+activity#org.openmrs.mobile.activities.dialog.DialogActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:69:9-72:55
+	android:noHistory
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:71:13-37
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:72:13-52
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:70:13-61
+activity#org.openmrs.mobile.activities.syncedpatients.SyncedPatientsActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:73:9-91:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:76:13-59
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:77:13-43
+	android:configChanges
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:75:13-62
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:78:13-48
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:74:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:81:13-83:75
+	android:value
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:83:17-72
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:82:17-63
+meta-data#android.app.searchable
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:84:13-86:54
+	android:resource
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:86:17-51
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:85:17-54
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:88:13-90:29
+action#android.intent.action.SEARCH
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:89:17-71
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:89:25-68
+activity#org.openmrs.mobile.activities.login.LoginActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:92:9-97:55
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:94:13-45
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:95:13-43
+	android:noHistory
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:96:13-37
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:97:13-52
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:93:13-59
+activity#org.openmrs.mobile.activities.settings.SettingsActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:98:9-103:51
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:100:13-52
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:102:13-81
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:101:13-43
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:103:13-48
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:99:13-65
+activity#org.openmrs.mobile.activities.patientdashboard.PatientDashboardActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:104:9-112:20
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:106:13-48
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:105:13-81
+activity#org.openmrs.mobile.activities.activevisits.ActiveVisitsActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:113:9-131:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:116:13-57
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:117:13-43
+	android:configChanges
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:115:13-62
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:118:13-48
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:114:13-73
+activity#org.openmrs.mobile.activities.visitdashboard.VisitDashboardActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:132:9-142:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:134:13-58
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:135:13-43
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:136:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:133:13-77
+activity#org.openmrs.mobile.activities.formlist.FormListActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:143:9-152:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:145:13-54
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:147:13-103
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:146:13-43
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:148:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:144:13-65
+activity#org.openmrs.mobile.activities.formentrypatientlist.FormEntryPatientListActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:153:9-162:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:156:13-54
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:157:13-81
+	android:configChanges
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:155:13-74
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:158:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:154:13-89
+activity#org.openmrs.mobile.activities.addeditpatient.AddEditPatientActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:163:9-174:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:166:13-60
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:167:13-91
+	android:configChanges
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:165:13-74
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:168:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:164:13-77
+service#org.openmrs.mobile.api.PatientService
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:176:9-178:38
+	android:enabled
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:178:13-35
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:177:13-47
+service#org.openmrs.mobile.api.EncounterService
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:179:9-181:38
+	android:enabled
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:181:13-35
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:180:13-49
+service#org.openmrs.mobile.api.FormListService
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:182:9-184:38
+	android:enabled
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:184:13-35
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:183:13-48
+activity#org.openmrs.mobile.activities.formdisplay.FormDisplayActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:186:9-194:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:188:13-63
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:189:13-79
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:190:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:187:13-71
+activity#org.openmrs.mobile.activities.lastviewedpatients.LastViewedPatientsActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:195:9-213:20
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:198:13-61
+	android:launchMode
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:199:13-43
+	android:configChanges
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:197:13-62
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:200:13-48
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:196:13-85
+activity#org.openmrs.mobile.activities.matchingpatients.MatchingPatientsActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:214:9-90
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:214:19-87
+activity#org.openmrs.mobile.activities.patientdashboard.details.PatientPhotoActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:215:9-222:20
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:217:13-95
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:218:13-44
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:216:13-85
+activity#org.openmrs.mobile.activities.logs.LogsActivity
+ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:223:9-227:68
+	android:label
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:227:13-56
+	android:parentActivityName
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:226:13-79
+	android:theme
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:225:13-48
+	android:name
+		ADDED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml:224:13-57
+uses-sdk
+INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [net.yanzm:mth:1.0.4] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/net.yanzm/mth/1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.1] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/net.zetetic/android-database-sqlcipher/3.5.1/AndroidManifest.xml:3:3-40
+MERGED from [org.jdeferred:jdeferred-android-aar:1.2.4] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/org.jdeferred/jdeferred-android-aar/1.2.4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:1.0.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/1.0.0/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/AndroidManifest.xml:19:5-43
+MERGED from [com.github.hotchemi:permissionsdispatcher:2.3.1] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.3.1/AndroidManifest.xml:6:5-9:55
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml
+		INJECTED from /Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/src/main/AndroidManifest.xml

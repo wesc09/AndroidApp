@@ -1,0 +1,7 @@
+#Sun Mar 26 21:27:10 CEST 2017
+base.0=/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_129f0dbe1b28779f6e0395f4ed22799ec972390a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7adbeadbac7467b07a6ccc5013b0e30c02d6aafb/classes.dex
+base.1=/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7adbeadbac7467b07a6ccc5013b0e30c02d6aafb
+file.0=/Users/Adria/Documents/UPC/4A/PAE/openmrs-contrib-android-client-master 2/openmrs-client/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_129f0dbe1b28779f6e0395f4ed22799ec972390a/classes.dex
